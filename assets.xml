@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.25" GSCVersion="1.25.6227">
+  <sounds />
+  <images>
+    <image name="backround candi versi kecil">
+      <file name="backround candi versi kecil.png" size="19792" />
+    </image>
+    <image name="backround candi">
+      <file name="backround candi.png" size="24546" />
+    </image>
+    <image name="backround Gedung dan langit">
+      <file name="backround Gedung dan langit.png" size="26513" />
+    </image>
+    <image name="batu">
+      <file name="batu.png" size="19715" />
+    </image>
+    <image name="bullet">
+      <file name="bullet.png" size="18781" />
+    </image>
+    <image name="FatahilahRemake">
+      <file name="FatahilahRemake.png" size="25884" />
+    </image>
+    <image name="fire1">
+      <file name="fire1.png" size="20925" />
+    </image>
+    <image name="fire2">
+      <file name="fire2.png" size="23300" />
+    </image>
+    <image name="fire3">
+      <file name="fire3.png" size="25159" />
+    </image>
+    <image name="fire4">
+      <file name="fire4.png" size="26616" />
+    </image>
+    <image name="gading1">
+      <file name="gading1.png" size="715" />
+    </image>
+    <image name="gading2">
+      <file name="gading2.png" size="757" />
+    </image>
+    <image name="gading3">
+      <file name="gading3.png" size="763" />
+    </image>
+    <image name="gading4">
+      <file name="gading4.png" size="702" />
+    </image>
+    <image name="GameOver">
+      <file name="GameOver.png" size="19491" />
+    </image>
+    <image name="Help alt">
+      <file name="Help alt.png" size="18576" />
+    </image>
+    <image name="help">
+      <file name="help.png" size="18786" />
+    </image>
+    <image name="help2">
+      <file name="help2.png" size="21695" />
+    </image>
+    <image name="icon">
+      <file name="icon.png" size="48825" />
+    </image>
+    <image name="IronBar">
+      <file name="IronBar.png" size="18323" />
+    </image>
+    <image name="IronBar2 (Log)">
+      <file name="IronBar2 (Log).png" size="18317" />
+    </image>
+    <image name="Menu templateSS">
+      <file name="Menu templateSS.png" size="21897" />
+    </image>
+    <image name="Menu">
+      <file name="Menu.png" size="18274" />
+    </image>
+    <image name="monas">
+      <file name="monas.png" size="24079" />
+    </image>
+    <image name="newplatform">
+      <file name="newplatform.png" size="18172" />
+    </image>
+    <image name="newplatform2">
+      <file name="newplatform2.png" size="18194" />
+    </image>
+    <image name="NormalCoin">
+      <file name="NormalCoin.png" size="19871" />
+    </image>
+    <image name="person1">
+      <file name="person1.png" size="18933" />
+    </image>
+    <image name="person2">
+      <file name="person2.png" size="19679" />
+    </image>
+    <image name="person3">
+      <file name="person3.png" size="19711" />
+    </image>
+    <image name="personjump1">
+      <file name="personjump1.png" size="19445" />
+    </image>
+    <image name="Platform">
+      <file name="Platform.png" size="237" />
+    </image>
+    <image name="Platform1">
+      <file name="Platform1.png" size="18484" />
+    </image>
+    <image name="Platform2">
+      <file name="Platform2.png" size="18672" />
+    </image>
+    <image name="slide">
+      <file name="slide.png" size="1175" />
+    </image>
+    <image name="Sound">
+      <file name="Sound.png" size="17955" />
+    </image>
+    <image name="spike">
+      <file name="spike.png" size="18443" />
+    </image>
+    <image name="Tiang1">
+      <file name="Tiang1.png" size="18352" />
+    </image>
+    <image name="Tiang2">
+      <file name="Tiang2.png" size="18140" />
+    </image>
+    <image name="Tiang3">
+      <file name="Tiang3.png" size="18340" />
+    </image>
+    <image name="Tiang4">
+      <file name="Tiang4.png" size="18114" />
+    </image>
+    <image name="TimeCoin">
+      <file name="TimeCoin.png" size="20339" />
+    </image>
+    <image name="UI GameOver">
+      <file name="UI GameOver.png" size="22167" />
+    </image>
+  </images>
+  <fonts />
+  <behaviors />
+</assets>
